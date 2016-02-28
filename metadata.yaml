@@ -1,0 +1,24 @@
+_repo: The-Puritaine-Widdow_4214
+alternative_title: The Puritan Widow
+creator:
+  author:
+    agent_name: Shakespeare (spurious and doubtful works)
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '654'
+    url: http://www.gutenberg.org/2009/agents/654
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4214'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Spurious and doubtful works'
+- !lcc 'PR'
+title: The Puritaine Widdow
+url: http://www.gutenberg.org/ebooks/4214
