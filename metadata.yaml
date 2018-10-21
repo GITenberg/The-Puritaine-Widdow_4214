@@ -1,5 +1,5 @@
 _repo: The-Puritaine-Widdow_4214
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: The Puritan Widow
 covers:
 - cover_type: generated
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
 - !lcsh 'Shakespeare, William, 1564-1616 -- Spurious and doubtful works'
 - !lcc 'PR'
+- GITenberg
 title: The Puritaine Widdow
 url: http://www.gutenberg.org/ebooks/4214
